@@ -1,0 +1,5 @@
+127.0.0.1 - - [06/May/2015:09:43:10 +0300] "GET /SpringMVCExample/ HTTP/1.1" 404 949 http-bio-8080-exec-1 10912
+127.0.0.1 - - [06/May/2015:10:27:58 +0300] "GET /SpringMVCExample/ HTTP/1.1" 404 949 http-bio-8080-exec-1 54862
+127.0.0.1 - - [06/May/2015:10:29:17 +0300] "GET /SpringMVCExample/index HTTP/1.1" 200 498 http-bio-8080-exec-4 15193
+127.0.0.1 - - [06/May/2015:10:30:39 +0300] "POST /SpringMVCExample/create;jsessionid=86C0323DB14A04A89480C01B92A0E417 HTTP/1.1" 200 406 http-bio-8080-exec-6 1711
+127.0.0.1 - - [06/May/2015:10:34:29 +0300] "GET /SpringMVCExample/create HTTP/1.1" 500 3696 http-bio-8080-exec-8 980

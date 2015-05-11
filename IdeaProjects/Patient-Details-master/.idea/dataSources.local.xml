@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - HI4Kenya@localhost" uuid="eef52a21-e45c-4449-a2cd-1ca3f92afa9f">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>HI4Kenya.*</schema-pattern>
+      <default-schemas>HI4Kenya.*</default-schemas>
+    </data-source>
+  </component>
+</project>

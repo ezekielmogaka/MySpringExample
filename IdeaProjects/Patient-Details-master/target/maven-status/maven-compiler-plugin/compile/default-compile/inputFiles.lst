@@ -1,0 +1,11 @@
+/home/wahome/IdeaProjects/PatientDetails/src/main/java/com/patientdetails/models/Drugs.java
+/home/wahome/IdeaProjects/PatientDetails/src/main/java/com/patientdetails/services/PatientsService.java
+/home/wahome/IdeaProjects/PatientDetails/src/main/java/com/patientdetails/controllers/PatientDetails.java
+/home/wahome/IdeaProjects/PatientDetails/src/main/java/com/patientdetails/services/PatientsServiceImpl.java
+/home/wahome/IdeaProjects/PatientDetails/src/main/java/com/patientdetails/dao/impl/DrugsDaoImpl.java
+/home/wahome/IdeaProjects/PatientDetails/src/main/java/com/patientdetails/services/DrugService.java
+/home/wahome/IdeaProjects/PatientDetails/src/main/java/com/patientdetails/models/Patients.java
+/home/wahome/IdeaProjects/PatientDetails/src/main/java/com/patientdetails/dao/DrugsDao.java
+/home/wahome/IdeaProjects/PatientDetails/src/main/java/com/patientdetails/services/DrugServiceImpl.java
+/home/wahome/IdeaProjects/PatientDetails/src/main/java/com/patientdetails/dao/impl/PatientDaoImpl.java
+/home/wahome/IdeaProjects/PatientDetails/src/main/java/com/patientdetails/dao/PatientsDao.java
